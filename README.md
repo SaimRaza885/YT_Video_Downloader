@@ -25,5 +25,5 @@ Before running the app, make sure you have:
 
 ## 🔹 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/SaimRaza885/YT_Video_Downloader.git
+cd YT_Video_Downloader
